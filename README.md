@@ -2,8 +2,7 @@
 
 
 ## Summary
-
-## 1. Idea in a Nutshell
+ 1. Idea in a Nutshell
 
 Project Name: UnmuskCorps
 
